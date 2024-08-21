@@ -1,5 +1,5 @@
 # in React we use MODULAR js. 
-what i mean is like we use type='module' attribute in script tag.
+what i mean is like we use type='module' attribute in script tag(actually we don't write, react automaticly does it for us). 
 # React Projects use BUILD PROCESS.
 Browser doesn't support React code.
 What i mean is, the code we write is not the code that gets executed in browser
