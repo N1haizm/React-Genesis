@@ -17,3 +17,5 @@ we could also see the script tags enables us this build process by looking at so
 
 Raw, unprocessed React code won't execute in the browser. JSX is not a default JavaScript feature.
 
+React projects require a build process that transforms our code.
+
